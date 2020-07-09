@@ -2,7 +2,7 @@
 
 <!--
 **MarkEdmondson1234/MarkEdmondson1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data science pipelines for digital marketing in the Google Cloud Platform 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about R, Google Cloud Platform and Data Science
 - 📫 How to reach me: https://code.markedmondson.me
 - ⚡ Fun fact: My first and favourite job was cabbage planting
--->
+
